@@ -1,0 +1,33 @@
+
+.list{
+  list-style: none;
+}
+
+
+#list li{
+  display: inline-block;
+  padding: 20px;
+}
+
+
+.list li a{
+  transition: all 0.3s ease 0s;
+}
+
+.list li a:hover{
+  color:rgb(200, 95, 95);
+  font-size: 50px;
+}
+
+button{
+  padding: 9px 25px;
+  background-color: rgb(185, 185, 197);
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.1s ease 0s;
+
+}
+
+button:hover{
+background-color: rgb(192, 76, 76);}

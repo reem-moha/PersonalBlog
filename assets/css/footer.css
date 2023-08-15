@@ -1,0 +1,9 @@
+.footer {
+    padding: 3px;
+    text-align: left;
+    background:rgb(247, 247, 247);
+    margin-top: 20px;
+  }
+  .footer .card .button {
+    flex-direction: row;
+  }
